@@ -91,7 +91,7 @@ public class MainActivity extends AppCompatActivity {
                         mUserAdapter.notifyDataSetChanged();
                         mUserAdapter.setLoaded();
                     }
-                }, 1000);
+                }, 2000);
             }
         });
 
